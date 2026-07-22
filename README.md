@@ -1,6 +1,7 @@
 # WorkSquares Accounts — Issue Tracker
 
 Public issue tracker for **WorkSquares Accounts**, a full-featured business accounting suite — invoicing, receivables and payables, general ledger, banking, and financial reporting — available on Web and Android.
+**Live app:** https://accounts.worksquares.ai
 
 > **This repository is for issue tracking only.** It contains no source code — WorkSquares Accounts is a closed-source product. Pull requests cannot be accepted here.
 
